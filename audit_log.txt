@@ -1,0 +1,8 @@
+[2026-02-14 18:15] STARTING SCAN: 10.10.0.1
+[2026-02-14 18:16] PORT 8090: Found Apache/2.4.62 (Debian)
+[2026-02-14 18:17] REDIRECT: http://10.10.0.1:8090/ -> /superclick/index.php
+[2026-02-14 18:20] WARNING: Automated scan detected by Gateway IPS.
+[2026-02-14 18:21] ERROR: 403 Forbidden - "Operation not authorized. Request logged."
+[2026-02-14 18:21] STATUS: MAC Address blacklisted.
+[2026-02-14 18:25] ACTION: MAC Rotation executed via macchanger.
+[2026-02-14 18:26] STATUS: Connection restored. Verified via captive.apple.com
